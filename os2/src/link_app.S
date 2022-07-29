@@ -1,4 +1,3 @@
-@@ -0,0 +1,63 @@
 
     .align 3
     .section .data
